@@ -1,0 +1,6 @@
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_USER=inganzo_app
+DB_PASSWORD=ftk0fuoYxUAlVmFlvzCEiiFN7tusQ8gp_uiq1rEyPzU
+DB_NAME=inganzo
+PORT=3000
